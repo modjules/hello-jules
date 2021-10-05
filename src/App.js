@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://google.com"
+          href="https://instagram.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Google
+          Instagram
         </a>
       </header>
     </div>
