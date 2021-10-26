@@ -31,31 +31,48 @@
 .main {
     
     font-weight: bold;
-    color: #0b9dca;
-    background-color: #182b50;
+    color: #091a1f;
+    background: rgb(103,101,148);
+    background: linear-gradient(90deg, rgba(103,101,148,1) 0%, rgba(174,174,215,1) 31%, rgba(229,240,242,1) 100%); 
     text-align: left;
     font-style: italic;
     border: solid rgb(128,128,128, 0.3);
 }
 .A {
-    color: #0b9dca; 
-    background-color: #182b50;
+    color: #091a1f;
     text-align: center;
     font-style: italic;
-    border: solid rgb(55, 26, 199);
+    border: solid rgb(42, 40, 49);
     min-width: 300px;
+    
 }
 .B {
-    color: #0b9dca; 
-    background-color: #182b50;
-    text-align: center;
+    color: #091a1f;
+    background: rgb(103,101,148);
+    background: linear-gradient(90deg, rgba(103,101,148,1) 0%, rgba(174,174,215,1) 31%, rgba(229,240,242,1) 100%);     text-align: center;
     font-style: italic;
-    border: solid rgb(255, 0, 255);
+    border: solid rgb(42, 40, 49);
 }
 .C {
-    color: #0b9dca; 
-    background-color: #182b50;
-    text-align: center;
+    color: #091a1f;
+    background: rgb(103,101,148);
+    background: linear-gradient(90deg, rgba(103,101,148,1) 0%, rgba(174,174,215,1) 31%, rgba(229,240,242,1) 100%);     text-align: center;
     font-style: italic;
-    border: solid rgb(0, 255, 0);
+    border: solid rgb(42, 40, 49)
+}
+.Aboutus {
+    border: solid;
+
+}
+.Ourwork {
+    border: solid;
+}
+.Testimonials {
+    border: solid;
+}
+.Contact {
+    border: solid;
+}
+.H {
+    font-family: cursive;
 }
